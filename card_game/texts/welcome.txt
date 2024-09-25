@@ -9,6 +9,7 @@
 HOW TO PLAY:
 	- Draw cards: <card1> <card2> card3>  
 	- Draw cards of the same type.
+	- Print "take" to grab cards.
 	- Respond to opponent cards respectively.
 	- Good luck!
 
